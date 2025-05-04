@@ -1,0 +1,6 @@
+board:
+  name: agafia_sg0
+  full_name: Agafia SG0
+  vendor: st
+  socs:
+    - name: stm32g071xx
